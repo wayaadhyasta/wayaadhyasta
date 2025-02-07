@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @wayaadhyasta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello everyone let me introduce myself my name is adhyasta adwaya alkarim, I am a bachelor of informatics student at the university of technology yogyakarta
 
-<!---
-wayaadhyasta/wayaadhyasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+my interest is in the backend engineering section using python and golang languages ​of course I focus on the mobile backend or the data section such as data science and machine learning able to understand data such as sql, mysql and data sets such as cvs to analyze data
+
+Instagram https://www.instagram.com/saturnzzss/
+Email aditnyakarim@gmail.com
